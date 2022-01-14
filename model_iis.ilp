@@ -1,0 +1,9 @@
+\ Model DySBMDEA- input oriented_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  0 SL0_0_ + Constant
+Subject To
+Bounds
+ SL0_0_ >= 1e+100
+ Constant = 1
+End
