@@ -46,8 +46,8 @@ A brief summary of the Dynamic DEA Slack-Based model (Tone & Tsutsui's, 2010):
 
 ## Usage
 
-First Step: Download the Sample Dataset Folder [Here](https://drive.google.com/drive/u/1/folders/14K7A1Y9wQ7JhzqdKBcMvfIjeoj7Q9_ET), and add them to the folder. 
-Second Step: To run the test code, check out Jupyter Notebook [DSBM_DEA_function_example.ipynb](https://github.com/georgia-max/DynamicsSBM/blob/master/DynamicSBM/DSBM_DEA_function_example.ipynb) for step-by-step guidelines.    
+- First Step: Download the Sample Dataset Folder [Here](https://drive.google.com/drive/u/1/folders/14K7A1Y9wQ7JhzqdKBcMvfIjeoj7Q9_ET), and add them to the folder. 
+- Second Step: To run the test code, check out Jupyter Notebook [DSBM_DEA_function_example.ipynb](https://github.com/georgia-max/DynamicsSBM/blob/master/DynamicSBM/DSBM_DEA_function_example.ipynb) for step-by-step guidelines.    
 
 
 ## Example
