@@ -21,13 +21,13 @@ This repository contains Python code to replicate the Dynamics Stochastic Block 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/dynamics-sbm-replication.git
+    git clone https://github.com/georgia-max/DynamicsSBM.git 
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd dynamics-sbm-replication
+    cd DynamicSBM
     ```
 
 3. Install the required dependencies:
@@ -38,11 +38,13 @@ This repository contains Python code to replicate the Dynamics Stochastic Block 
 
 ## Usage
 
-Describe how to use your code. Provide code snippets, examples, and any necessary instructions for users to run the Dynamics SBM replication in their own projects.
+First Step: Download the Sample Dataset Folder [Here](https://drive.google.com/drive/u/1/folders/14K7A1Y9wQ7JhzqdKBcMvfIjeoj7Q9_ET), and add them to the folder. 
+Second Step: To run the test code, check out Jupyter Notebook [DSBM_DEA_function_example.ipynb](https://github.com/georgia-max/DynamicsSBM/blob/master/DynamicSBM/DSBM_DEA_function_example.ipynb) for step-by-step guidelines.    
+
 
 ## Example
 
-Showcase an example of how to use your code with a simple demonstration. This could involve loading sample data, configuring parameters, and running the Dynamics SBM model.
 
 ```python
-# Your example code here
+cd DynamicSBM
+python ./Main.py
