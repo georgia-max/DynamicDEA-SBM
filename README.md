@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains Python code replicating the [Dynamics Slack-Based DEA Model] (https://doi.org/10.1016/j.omega.2009.07.003) proposed in Tone & Tsutsui's (2010) paper. The Dynamics SBM DEA is a DEA model widely used for analyzing the evolving structure of dynamic networks. This project aims to provide an open-source implementation for researchers and practitioners interested in understanding and applying the Dynamics SBM.
+This repository contains Python code replicating the [Dynamics Slack-Based DEA Model](https://doi.org/10.1016/j.omega.2009.07.003) proposed in Tone & Tsutsui's (2010) paper. The Dynamics SBM DEA is a DEA model widely used for analyzing the evolving structure of dynamic networks. This project aims to provide an open-source implementation for researchers and practitioners interested in understanding and applying the Dynamics SBM.
 
 
 A brief summary of the Dynamic SBM DEA model (Tone & Tsutsui's, 2010): 
@@ -60,5 +60,5 @@ python ./Main.py
 
 ## Reference
 
-1. Tone, K., & Tsutsui, M. (2010). Dynamic DEA: A slacks-based measure approach. Omega, 38(3-4), 145-156.
+1. Tone, K., & Tsutsui, M. (2010). Dynamic DEA: A slacks-based measure approach. Omega, 38(3-4), 145-156. https://doi.org/10.1016/j.omega.2009.07.003 
 
