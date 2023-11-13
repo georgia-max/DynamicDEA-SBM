@@ -56,6 +56,7 @@ Second Step: To run the test code, check out Jupyter Notebook [DSBM_DEA_function
 ```python
 cd DynamicSBM
 python ./Main.py
+```
 
 ## Reference
 
